@@ -5,3 +5,5 @@ print("this is an update")
 a = 5
 if(a==5):
   print("success")
+
+print(a)
